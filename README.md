@@ -24,3 +24,6 @@ REACT_APP_GOOGLE_MAPS_API_KEY='google map API key here. Get details from https:/
 That's it, save all and run server with the command ts-node server.ts 
 
 & client with npm start ! thats it!!
+
+
+DEMO: https://www.youtube.com/watch?v=fA5s0HkIkw8
