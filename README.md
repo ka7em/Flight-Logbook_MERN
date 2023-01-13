@@ -2,7 +2,7 @@
  
 This App allows commercial pilots to record their flight data in a webapp instead of traditional flight logbook.
  
-For proper functioning of this app, you are required to create a .env file in your the project's root folder and server folder
+For proper functioning of this app, first clone it onto your machine or download & extract zip file and type npm i --force to install necessary packages then, you are required to create a .env file in your the project's root folder and server folder
 then, inside .env file, specify the port for running server side (default is PORT is set to 3000). And then enter your google maps API key and MongoDB connection string.
 
 
